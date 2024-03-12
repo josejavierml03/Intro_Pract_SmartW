@@ -10,7 +10,7 @@
 }
 
 [data-theme="light"] {
-    --colorFondo: rgb(126, 126, 126);
+    --colorFondo: rgb(95, 95, 95);
     --colorFondo2: white;
     --colorLetra:black;
 }

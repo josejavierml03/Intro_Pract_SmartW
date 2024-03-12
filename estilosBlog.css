@@ -3,11 +3,11 @@ body.byteStorm{
   border: 1px solid black;
   background-color: #1a1818 ;
   font-family: "Montserrat", sans-serif ;
+  color: white;
 }
 
 header{
   background-color: #364552;
-  color: white;
   height: 200px;
 }
 
@@ -26,19 +26,19 @@ header img{
 }
 
 .seccion1 article{
-  background-color: #535353;
+  background-color: #868686;
   border-radius: 2rem;
 } 
 
 footer{
 margin-top: 40px;
 background-color: #364552;
-color: white;
 }
 
 footer a{
 transition: color 0.3s ease;
 text-decoration: none;
+color: white;
 }
 
 footer a:hover{
