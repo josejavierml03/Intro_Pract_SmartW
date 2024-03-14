@@ -1,4 +1,10 @@
 
+@media (max-width: 1440px) {
+  body {
+    width: 100%;
+  }
+}
+
 body.byteStorm{
   border: 1px solid black;
   background-color: #1a1818 ;
@@ -20,8 +26,8 @@ header img{
 }
 
 .post{
-  height: 650px;
-  width: 440px;  
+  height: 100%;
+  width: 100%;  
 
 }
 
