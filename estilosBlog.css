@@ -1,8 +1,6 @@
-
-@media (max-width: 1440px) {
-  body {
-    width: 100%;
-  }
+body{
+  width: 100%;
+  max-width: 2240px;
 }
 
 body.byteStorm{
